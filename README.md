@@ -97,6 +97,7 @@ Welcome to my GitHub repository! I'm a data enthusiast with experience in **Pyth
 - 💼 [**LinkedIn:**] (https://www.linkedin.com/in/enrique-olvera-monroy/?locale=en_US)
 - ✉️ [**Email:**] (enriqueolveramonroy@gmail.com)
 
+
 <div align="center">
 
 ⭐ **Thanks for visiting my portfolio!** ⭐

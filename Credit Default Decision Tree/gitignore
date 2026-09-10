@@ -1,0 +1,42 @@
+# ===== Jupyter Notebook =====
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ===== Entornos virtuales =====
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# ===== Distribución / empaquetado =====
+build/
+dist/
+*.egg-info/
+
+# ===== Variables de entorno / credenciales =====
+.env
+*.env.local
+
+# ===== Sistema operativo =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Editores / IDEs =====
+.vscode/
+.idea/
+
+# ===== Logs =====
+*.log
+
+# ===== Archivos temporales =====
+*.tmp
+*.bak
+*.swp
